@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**victorcarrillodev/victorcarrillodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola Mundo!
+Soy Victor Carrillo, programador web freelance
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo](https://github.com/victorcarrillodev/victorcarrillodev/blob/main/generated-image-1c9799c2-5fd7-4fff-a755-94f53f0b33ed.jpg?raw=true)
+
+
+## 🚀 About Me
+Soy programador web y mobil en javascript, typescript, html, CSS, React, Vue, Flutter
+
+
+## Other Common Github Profile Sections
+👩‍💻 Actualmente trabajo en una libreria de componentes para Vue3 entre otras cosas..
+
+🧠 Siempre sigo aprendiendo y descubriendo cosas interesantes
+
+👯‍♀️ Mi mejor colaboracion seria con cualquiera con la misma pasión para programar que la mia!!
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, Next, Vue, Nuxt, Python, Flutter, C, C++
+
