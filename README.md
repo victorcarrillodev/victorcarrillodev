@@ -73,8 +73,7 @@ Soy **Ingeniero en Sistemas** egresado de **UNIVER**. Mi enfoque principal es el
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorcarrillodev&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcarrillodev&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://metrics.lecoq.io/victorcarrillodev?template=classic&base.theme=dark" alt="GitHub Metrics de Victor" width="600">
 </p>
 
 ---
