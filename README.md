@@ -75,8 +75,8 @@ Soy **Ingeniero en Sistemas** egresado de **UNIVER**. Mi enfoque principal es el
 <!-- IMPORTANTE: Cambia "TU_USUARIO_AQUI" por tu nombre de usuario exacto de GitHub en las dos líneas de abajo para que funcionen -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorcarrillo&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcarrillo&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorcarrillodev&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcarrillodev&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
 
 ---
