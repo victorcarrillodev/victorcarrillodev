@@ -1,20 +1,32 @@
-# Hola, soy Victor Carrillo 👋 
+<div align="center">
+  <!-- Reemplaza el enlace de abajo por la URL de tu foto. Puede ser una de tu propio repositorio -->
+  <img src="https://avatars.githubusercontent.com/u/TU_USUARIO_AQUI?v=4" alt="Victor Carrillo" width="150" style="border-radius: 50%;" />
 
-<p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  # Hola, soy Victor Carrillo 👋 
+  
+  **Ingeniero en Sistemas | Desarrollador Web | Entusiasta de Linux y Redes**
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/TU_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a>
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
+
 ### 👨‍💻 Sobre mí
 
 Soy **Ingeniero en Sistemas** egresado de **UNIVER**. Mi enfoque principal es el desarrollo de software y la administración de infraestructura. Me apasiona resolver problemas complejos, optimizar servidores y configurar arquitecturas de red seguras.
 
-- 🎓 **Educación:** Ingeniería en Sistemas en UNIVER.
-- 🐧 **Entusiasta de Linux:** Usuario de Garuda Linux en escritorio y Ubuntu para servidores.
+- 🎓 **Educación:** Ingeniería en Sistemas.
+- 🐧 **Entusiasta de Linux:** Usuario de distribuciones basadas en Arch para escritorio y Ubuntu para servidores.
 - 🛠️ **Enfoque actual:** Automatización, contenedores y desarrollo con frameworks modernos.
 - ⚡ **Intereses:** Redes, terminales, seguridad informática y despliegue de servidores.
 
@@ -60,9 +72,11 @@ Soy **Ingeniero en Sistemas** egresado de **UNIVER**. Mi enfoque principal es el
 
 ### 📊 Estadísticas de GitHub
 
+<!-- IMPORTANTE: Cambia "TU_USUARIO_AQUI" por tu nombre de usuario exacto de GitHub en las dos líneas de abajo para que funcionen -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Languages" height="150">
 </p>
 
 ---
