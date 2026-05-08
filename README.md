@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Reemplaza el enlace de abajo por la URL de tu foto. Puede ser una de tu propio repositorio -->
-  <img src="https://avatars.githubusercontent.com/u/217408091?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/217408091?v=4" width="150" style="border-radius: 80%;" />
 
   # Hola, soy Victor Carrillo 👋 
   
